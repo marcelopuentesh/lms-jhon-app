@@ -1,0 +1,13 @@
+.login-container {
+  position: absolute;
+  width: 500px;
+  height: 400px;
+  left: 392px;
+  top: 180px;
+  background-color: #fbfbfb;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
